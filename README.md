@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pablo-Penasco
 - 👀 I’m interested in Development and Cyber Security
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C#
 - 💞️  
 - 📫 
 
